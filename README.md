@@ -15,3 +15,11 @@ This is an example image:
 <p><b>SCALED</b></p>
 
 <img src = "turtlepics/turtle2.jpg" width = 200>
+
+<br>
+
+<p>Example with GIF: </p>
+
+<br>
+
+<img src = "turtlepics/KermitSpaz.gif" width = 200>
